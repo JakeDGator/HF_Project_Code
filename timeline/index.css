@@ -1,0 +1,300 @@
+@charset "UTF-8";
+/* CSS Document */
+@charset "UTF-8";
+/* CSS Document */
+#LogoGif img{	
+	width:225px;
+	height:60px;
+	position:relative;
+	top:-70px;
+	margin:auto;
+}
+
+#NavBar {
+    height:50px;
+	width:900px;
+	position:relative;
+	background-image:url(navigationbar.png);
+	border-radius:10px;
+	margin:auto;
+	bottom:-50px;
+}
+
+.Buttons {
+    display:inline;
+	position:relative;	
+	color:#0F0;
+	font-family:courier,impact,serif;
+}
+
+#Home {
+    top:-68px;
+	position:relative;
+	width:50px;
+	height:30px;
+	margin:auto;
+	left:-375px;
+}
+
+a:link {
+    text-decoration:none;	
+}
+
+a {
+    color:#0F0;	
+}
+/*Top: -37 Right: -80 */
+#Bio {
+    top:-115px;
+	position:relative;
+	right:-280px;	
+	margin:auto;
+	left:-295px;
+	width:50px;
+	height:30px;
+}
+
+#Timeline {
+    top:-163px;
+	position:relative;
+	right:-357px;
+	margin:auto;
+	left:-200px;
+	width:50px;
+	height:30px;
+}
+
+#Info {
+    top:-212px;
+	position:relative;
+	right:-492px;	
+	margin:auto;
+	left:-65px;
+	width:50px;
+	height:30px;
+}
+
+#Credits {
+    top:-261px;
+	position:relative;
+	width:50px;
+	height:30px;
+	margin:auto;
+	right:-30px;
+}
+
+#Videos {
+    top:-309px;
+	position:relative;
+	margin:auto;
+	right:-150px;
+	width:50px;
+	height:30px;
+}
+
+#EditorNotes h3 {
+    font-family:Courier;
+	color:#0F0;	
+	margin:auto;
+	top:-200px;
+	position:relative;
+}
+
+#EditorNotes p {
+    font-family:Courier;
+	color:#C60;
+	width:450px;	
+	margin:auto;
+	top:-150px;
+	position:relative;
+}
+
+#Timeline {
+    width:200px;	
+}
+
+#TL1 img {
+    width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+}
+
+#todlerline {
+    position:relative;
+	width:250px;
+	height:-5px;
+	border:dashed 2px #0F0;
+	right:-48px;	
+	bottom:-10px;
+}
+
+#TL2 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+}
+
+#TL3 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL4 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL5 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL6 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL7 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL8 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL9 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL10 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL11 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL12 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL13 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#TL14 img {
+	width:150px;
+	height:130px;
+	position:relative;
+	border-radius:100px;
+	margin:auto;	
+	border:double 5px #F60; 
+	right:-300px;
+	top:-50px;
+	background-color:#CCC;
+}
+
+#Footer {
+    height:auto;
+	width:auto;
+	background-color:#333;
+	opacity:0.6;	
+	border-radius:5px;
+	margin:auto;
+	bottom:-7500px;
+	position:relative;
+}

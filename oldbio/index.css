@@ -1,0 +1,118 @@
+@charset "UTF-8";
+@charset "UTF-8";
+
+#LogoGif img {
+    width:200px;
+	height:50px;
+	position:relative;
+	top:-5px;
+}
+
+#NavBar {
+    width:1200px;
+	height:50px;
+	background-color:#333;
+	border-radius:10px;
+	position:absolute;
+	/*Make an image for this in Photoshop*/
+	/*background-image:;*/    	
+}
+
+a:link {
+    text-decoration:none;	
+}
+
+#HomeB {
+    position:relative;
+	top:-22px;
+	right:-10px;
+	width:50px;
+	height:30px;	
+}
+
+#BioB {
+    position:relative;	
+	width:50px;
+	height:30px;
+	top:-82px;
+	right:-100px;
+}
+
+#TimelineB {
+    position:relative;	
+	width:50px;
+	height:30px;
+	top:-144px;
+	right:-170px;
+}
+
+#InfoB {
+    position:relative;	
+	width:50px;
+	height:30px;
+	top:-206px;
+	right:-300px;
+}
+
+#CreditsB {
+    position:relative;
+	width:50px;
+	height:30px;
+	top:-268px;
+	right:-375px;
+}
+
+#TuringPortrait img {
+    position:relative;
+    top:-200px;
+	margin:top;
+	align:middle;
+	border:solid #0C6 3px;
+	border-radius:200px;
+	
+}
+
+#intro p {
+	width:500px;
+	height:1000px;	
+	top:-100px;
+	position:relative;
+	top:-150px;
+}
+
+#Cursor {
+    cursor:url(cursor.png);	
+}
+
+.Footer {
+    position:relative;
+	width:1000px;
+	height:60px;
+	background-color:#333;
+	opacity:0.4;
+	border-radius:5px;	
+	bottom:-750px;
+}
+
+#Bio {
+    top:-100px;   
+    border:double 3px #00FF00; 	
+}
+
+p {
+    text-align:center;
+	color:#0F3;	
+	opacity:0.9;
+}
+
+#turingtext img {
+    width:750px;
+	height:350px;	
+	postion:relative;
+}
+
+#portrait {
+    width:413.3px;
+	height:275.3px;
+	position:relative;	
+}
