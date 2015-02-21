@@ -1,0 +1,30 @@
+  CHANGELOG & known bugs for “Alan Turing - The AI Guy” 2014-2015 History Fair Project. 
+
+All code and recorded information courtesy of Jake Lille, the Web Designer and Programmer. Research done by David Thame and Alex Cubbage.
+
+—————————————————————————————————————————————————————————————————————————————
+V: 1.0
+— February 5th, 2015 (School Project Judging) —
+
+* First rough draft completed of site
+
+* Does not include…
+    - Videos Page
+    - Quotes Page
+    - Fully updated Bibliography
+    - Final Draft of Timeline (will be updated with Javascript at later date)
+    - Full Credits Page
+    - At the time this was made, this change log
+    - Quote Page Button
+
+* Bugs:
+    - Fix grammatical error in the marquee (how much work I) on most pages
+    - Random Google + text on navigation page
+    - Incorrect GitHub link (needed to be updated with the proper code)
+    - Uncentered Navigation Button (“Timeline”) on timeline page (css error)
+    - Transitions on some page not added (due to “Rush Hour” code I had)
+
+
++ Rush Hour Code: Final additions to the development of something where you   forget certain aspects.
+—————————————————————————————————————————————————————————————————————————————
+
