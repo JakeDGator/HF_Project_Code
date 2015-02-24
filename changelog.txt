@@ -27,4 +27,12 @@ V: 1.0
 
 + Rush Hour Code: Final additions to the development of something where you   forget certain aspects.
 —————————————————————————————————————————————————————————————————————————————
+V: 1.1 ***STILL UNDERWAY***
+— February *FILL IN LATER*, 2015 (Pre-District Judging) —
+
+* Added a bit of my newly learned Javascript skills :D (the survey/review button)
+
+* Fixed Github button on Title Page to reference the correct link and respiratory
+
+* On Title Page changed plain color background of buttons to “The Bombe” dials
 
